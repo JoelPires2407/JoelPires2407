@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Joel_Pires_2407" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/twitter.png"/></a>
-<a href="https://linkedin.com/in/joel-pires-68b77619b" target="blank"><img align="center" src="<img src="https://img.icons8.com/ios-filled/50/000000/linkedin-2--v2.png"/>" alt="Joel Pires"/></a>
+<a href="https://linkedin.com/in/joel-pires-68b77619b" target="blank"><img align="center" src="https://img.icons8.com/color/50/000000/linkedin-2--v2.png" alt="Joel Pires"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
