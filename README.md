@@ -14,6 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<i style="font-size:24px" class="fa">&#xf099;</i>
 <i class="fa fa-twitter" style="font-size:48px;color:red"></i>
 <a href="https://twitter.com/Joel_Pires_2407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Joel_Pires" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/joel-pires-68b77619b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Joel Pires" height="30" width="40" /></a>
