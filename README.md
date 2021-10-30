@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joel Pires</h1>
 
-![Design and Development](https://pbs.twimg.com/profile_banners/1297753100132835328/1634481334/1080x360)
+![Design and Development](https://pbs.twimg.com/profile_banners/1297753100132835328/1635574711/1080x360)
 
 <h1 align="center">A Enthusiastic programmer from Goa</h1>
 
